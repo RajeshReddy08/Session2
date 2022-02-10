@@ -1,0 +1,15 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+    color: rgb(17, 13, 12);
+    text-align: center;
+}
+hr{
+    height: 5px ;
+    background-color: black;
+}
+.abc{
+    text-align: center;
+}
